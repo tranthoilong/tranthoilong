@@ -13,7 +13,7 @@
   </picture>
 </div>
 
-> DevOps/SRE lai Fullstack, mê tự động hóa vận hành và scale hệ thống với chi phí tối ưu.
+> DevOps/SRE lai Fullstack, mê tự động hóa vận hành và scale hệ thống với chi phí tối ưu [GitHub](https://tranthoilong.github.io/).
 
 ### 🧑‍🚀 Về tôi
 
