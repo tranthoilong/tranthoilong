@@ -1,7 +1,7 @@
 ## Hi, I'm Long 👋
 
 <div align="center">
-  <img width="320" src="./hello.gif" alt="hello">
+  <img width="320" src="./logoden.png" alt="hello">
 </div>
 
 > DevOps/SRE lai Fullstack, mê tự động hóa vận hành và scale hệ thống với chi phí tối ưu.
