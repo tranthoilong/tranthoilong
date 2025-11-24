@@ -32,7 +32,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ### 📈 My github stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maitrungduc1410&hide=contribs,prs&show_icons=true&bg_color=0,f5b161,ec366e&title_color=fff&text_color=fff&icon_color=fff" alt="Tran Thoi Long's GitHub stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tranthoilong&hide=contribs,prs&show_icons=true&bg_color=0,f5b161,ec366e&title_color=fff&text_color=fff&icon_color=fff" alt="Tran Thoi Long's GitHub stats" width="400" />
 <img src="./digital.gif" width="150" />
 </div>
 
