@@ -1,12 +1,11 @@
 ## Hi, I'm Long 👋
 
 <div align="center">
-  <!-- <img width="320" src="./logoden.png" alt="hello"> -->
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./logoden.png">
-  <source media="(prefers-color-scheme: light)" srcset="./logotrang.png">
-  <!-- <img width="320" src="./logotrang.png" alt="hello"> -->
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./logoden.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./logotrang.png" />
+    <img width="320" src="./logotrang.png" alt="hello" />
+  </picture>
 </div>
 
 > DevOps/SRE lai Fullstack, mê tự động hóa vận hành và scale hệ thống với chi phí tối ưu.
