@@ -1,4 +1,9 @@
-## Hi, I'm Long 👋
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=FFA500&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Long+%F0%9F%91%8B;DevOps+%2F+SRE+%2B+Fullstack;Scale+automation+lover"
+    alt="Hi, I'm Long 👋"
+  />
+</h1>
 
 <div align="center">
   <picture>
