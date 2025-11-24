@@ -53,19 +53,19 @@ Tôi là [Trần Thới Long](https://octotech.vn/), DevOps engineer tự học 
 ### 📈 Số liệu & fun stuff
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthoilong&layout=compact&theme=tokyonight" alt="Top languages" width="320" />
-</div>
-<!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranthoilong&theme=radical" alt="GitHub streak stats" width="420" />
-</div> -->
-<div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=tranthoilong&hide=contribs,prs&show_icons=true&bg_color=0,f5b161,ec366e&title_color=fff&text_color=fff&icon_color=fff" alt="Tran Thoi Long's GitHub stats" width="420" />
-  <img src="./digital.gif" width="150" alt="digital gif" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthoilong&layout=compact&theme=tokyonight" alt="Top languages" width="320" />
 </div>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranthoilong&theme=react-dark" alt="GitHub activity graph" width="640" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranthoilong&theme=radical" alt="GitHub streak stats" width="420" />
+  <img src="./digital.gif" width="140" alt="digital gif" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranthoilong&theme=react-dark" alt="GitHub activity graph" width="720" />
+</div>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tranthoilong&theme=onedark&column=6&margin-w=10&margin-h=10&no-frame=true" alt="GitHub profile trophies" width="720" />
 </div>
