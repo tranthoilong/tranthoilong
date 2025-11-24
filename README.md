@@ -2,8 +2,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./logoden.png" />
-    <source media="(prefers-color-scheme: light)" srcset="./logotrang.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="./logotrang.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./logoden.png" />
     <img width="320" src="./logotrang.png" alt="hello" />
   </picture>
 </div>
