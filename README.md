@@ -93,6 +93,21 @@ Tôi là [Trần Thới Long](https://octotech.vn/), DevOps engineer tự học 
         </a>
       </div>
     </article>
+    <article style="display:flex;flex-wrap:wrap;align-items:center;gap:28px;padding:28px;border-radius:20px;border:1px solid rgba(15,23,42,0.08);box-shadow:0 18px 45px rgba(15,23,42,0.12);background:linear-gradient(135deg,#f0f9ff,#ffffff);">
+      <a href="https://tranthoilong.github.io/love-part-2/" style="display:inline-block;flex:1 1 320px;">
+        <img src="./assets/images/github/love-part-2.png" alt="Website tỏ tình 2" width="360" style="border-radius:14px;object-fit:cover;width:100%;max-width:380px;" />
+      </a>
+      <div style="flex:1 1 320px;text-align:left;">
+        <span style="font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#fb923c;">Website tỏ tình · Bản 2</span>
+        <h3 style="margin:14px 0 10px;">love-part-2 · Journey interactive</h3>
+        <p style="line-height:1.7;margin-bottom:18px;">
+          Phiên bản nâng cấp với các section tương tác (parallax, animation scroll) kể lại từ lúc gặp gỡ đến lời hứa dài lâu, thêm gallery kỷ niệm và call-to-action “đồng hành trọn đời”.
+        </p>
+        <a href="https://tranthoilong.github.io/love-part-2/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#14b8a6;color:#fff;text-decoration:none;font-weight:600;">
+          Khám phá love-part-2 →
+        </a>
+      </div>
+    </article>
   </div>
 </div>
 
