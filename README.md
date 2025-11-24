@@ -64,10 +64,10 @@ Tôi là [Trần Thới Long](https://octotech.vn/), DevOps engineer tự học 
   <img src="./digital.gif" width="150" alt="digital gif" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranthoilong&theme=react-dark" alt="GitHub streak stats" width="420" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranthoilong&theme=react-dark" alt="GitHub activity graph" width="640" />
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tranthoilong&theme=onedark" alt="GitHub streak stats" width="420" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tranthoilong&theme=onedark&column=6&margin-w=10&margin-h=10&no-frame=true" alt="GitHub profile trophies" width="720" />
 </div>
 
 
