@@ -59,6 +59,12 @@ Tôi là [Trần Thới Long](https://octotech.vn/), DevOps engineer tự học 
 | **realtime_driver** | Hệ thống định tuyến & giám sát tài xế realtime. | Backend chính, tối ưu latency. |
 | **app_driver_delivery** | Ứng dụng Flutter điều phối tài xế, tracking đơn hàng. | Kỹ sư mobile/core logic. |
 
+### 🌐 Website đang vận hành
+
+| Website | Giới thiệu | Hình ảnh |
+| --- | --- | --- |
+| [love-part-1](https://tranthoilong.github.io/love-part-1/) | Website tỏ tình mang phong cách timeline kể lại hành trình quen nhau, các cột mốc quan trọng và lời nhắn nhủ trong tương lai. | <a href="https://tranthoilong.github.io/love-part-1/"><img src="./assets/images/github/love-part-1.png" alt="Website tỏ tình 1" width="360" /></a> |
+
 ### 📈 Số liệu & fun stuff
 
 <div align="center">
@@ -94,6 +100,5 @@ Tôi là [Trần Thới Long](https://octotech.vn/), DevOps engineer tự học 
 </div>
 
 > Nếu bạn đang xây dựng sản phẩm cần scale nhanh nhưng vẫn gọn nhẹ, cứ nhắn tôi. Cà phê đen luôn sẵn sàng ☕
-
 
 
