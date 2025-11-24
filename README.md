@@ -57,8 +57,8 @@ Tôi là [Trần Thới Long](https://octotech.vn/), DevOps engineer tự học 
 </div>
 <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranthoilong&theme=radical" alt="GitHub streak stats" width="420" />
-</div>
-<div align="center"> -->
+</div> -->
+<div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=tranthoilong&hide=contribs,prs&show_icons=true&bg_color=0,f5b161,ec366e&title_color=fff&text_color=fff&icon_color=fff" alt="Tran Thoi Long's GitHub stats" width="420" />
   <img src="./digital.gif" width="150" alt="digital gif" />
