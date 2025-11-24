@@ -62,21 +62,21 @@ Tôi là [Trần Thới Long](https://octotech.vn/), DevOps engineer tự học 
 ### 🌐 Website đang vận hành
 
 <div align="center">
-  <a href="https://tranthoilong.github.io/love-part-1/" style="text-decoration:none;color:inherit;">
-    <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:24px;padding:24px;border:1px solid #f0f0f0;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,0.08);max-width:880px;">
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:24px;padding:24px;border:1px solid #f0f0f0;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,0.08);max-width:880px;">
+    <a href="https://tranthoilong.github.io/love-part-1/" style="display:inline-block;">
       <img src="./assets/images/github/love-part-1.png" alt="Website tỏ tình 1" width="360" style="border-radius:12px;object-fit:cover;" />
-      <div style="max-width:420px;text-align:left;">
-        <span style="font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#f97316;">Website tỏ tình 1</span>
-        <h3 style="margin:12px 0 8px;">love-part-1</h3>
-        <p style="line-height:1.6;">
-          Website tỏ tình kiểu timeline kể hành trình quen nhau, nêu từng cột mốc quan trọng, lời nhắn tương lai và lời hứa đồng hành.
-        </p>
-        <strong style="display:inline-flex;align-items:center;gap:6px;color:#2563eb;">
-          Trải nghiệm ngay →
-        </strong>
-      </div>
+    </a>
+    <div style="max-width:420px;text-align:left;">
+      <span style="font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#f97316;">Website tỏ tình 1</span>
+      <h3 style="margin:12px 0 8px;">love-part-1</h3>
+      <p style="line-height:1.6;">
+        Website tỏ tình kiểu timeline kể hành trình quen nhau, nêu từng cột mốc quan trọng, lời nhắn tương lai và lời hứa đồng hành.
+      </p>
+      <a href="https://tranthoilong.github.io/love-part-1/" style="display:inline-flex;align-items:center;gap:6px;color:#2563eb;text-decoration:none;font-weight:600;">
+        Trải nghiệm ngay →
+      </a>
     </div>
-  </a>
+  </div>
 </div>
 
 ### 📈 Số liệu & fun stuff
