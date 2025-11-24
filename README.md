@@ -65,6 +65,9 @@ Tôi là [Trần Thới Long](https://octotech.vn/), DevOps engineer tự học 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranthoilong&theme=react-dark" alt="GitHub activity graph" width="720" />
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tranthoilong/tranthoilong/output/snake.svg" alt="Snake GitHub Contribution Animation" width="720" />
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tranthoilong&theme=onedark&column=6&margin-w=10&margin-h=10&no-frame=true" alt="GitHub profile trophies" width="720" />
