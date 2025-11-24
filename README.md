@@ -59,9 +59,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ### 📫 Kết nối
 
 <div align="center">
-  <a href="mailto:hello@octotech.vn"><img src="https://img.shields.io/badge/Email-hello%40octotech.vn-red?style=for-the-badge"></a>
+  <a href="mailto:longdevlor@gmail.com"><img src="https://img.shields.io/badge/Email-longdevlor%40gmail.com-red?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/tranthoilong/"><img src="https://img.shields.io/badge/LinkedIn-Long-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://x.com/tranthoilong"><img src="https://img.shields.io/badge/Twitter-%40tranthoilong-000?style=for-the-badge&logo=twitter"></a>
+  <a href="https://zalo.me/0383892964"><img src="https://img.shields.io/badge/Zalo-0383892964-0068ff?style=for-the-badge"></a>
 </div>
 
 
