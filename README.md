@@ -62,63 +62,75 @@ Tôi là [Trần Thới Long](https://octotech.vn/), DevOps engineer tự học 
 ### 🌐 Website đang vận hành
 
 <div align="center">
-  <div style="display:flex;flex-direction:column;gap:28px;width:100%;max-width:920px;">
-    <article style="display:flex;flex-wrap:wrap;align-items:center;gap:28px;padding:28px;border-radius:20px;border:1px solid rgba(15,23,42,0.08);box-shadow:0 18px 45px rgba(15,23,42,0.12);background:linear-gradient(135deg,#fff,#fff7f0);">
-      <a href="https://tranthoilong.github.io/love-part-0/" style="display:inline-block;flex:1 1 320px;">
-        <img src="./assets/images/github/love-part-0.png" alt="Website tỏ tình 0" width="360" style="border-radius:14px;object-fit:cover;width:100%;max-width:380px;" />
+  <div style="display:flex;flex-direction:column;gap:32px;width:100%;max-width:960px;">
+    <article style="position:relative;display:flex;flex-wrap:wrap;align-items:center;gap:32px;padding:32px;border-radius:24px;border:2px solid rgba(14,165,233,0.15);box-shadow:0 20px 50px rgba(14,165,233,0.1),0 0 0 1px rgba(255,255,255,0.5);background:linear-gradient(135deg,#ffffff 0%,#fff7f0 50%,#ffe8d6 100%);overflow:hidden;">
+      <div style="position:absolute;top:0;right:0;width:200px;height:200px;background:radial-gradient(circle,rgba(14,165,233,0.08),transparent);border-radius:50%;transform:translate(30%,-30%);"></div>
+      <a href="https://tranthoilong.github.io/love-part-0/" style="display:inline-block;flex:1 1 340px;position:relative;z-index:1;">
+        <img src="./assets/images/github/love-part-0.png" alt="Website tỏ tình 0" width="360" style="border-radius:16px;object-fit:cover;width:100%;max-width:400px;box-shadow:0 12px 32px rgba(0,0,0,0.12);border:2px solid rgba(255,255,255,0.8);" />
       </a>
-      <div style="flex:1 1 320px;text-align:left;">
-        <span style="font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#fb923c;">Website tỏ tình · Bản 0</span>
-        <h3 style="margin:14px 0 10px;">love-part-0 · Love Landing</h3>
-        <p style="line-height:1.7;margin-bottom:18px;">
-          Trang mở đầu với hero chữ tay và lời hứa “ở bên em”, dùng màu pastel, animation nhẹ tạo cảm giác thư tình. Nội dung tập trung vào cảm xúc hiện tại và lời cam kết ngắn gọn.
+      <div style="flex:1 1 340px;text-align:left;position:relative;z-index:1;">
+        <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+          <span style="font-size:11px;letter-spacing:2.5px;text-transform:uppercase;color:#0ea5e9;font-weight:700;padding:4px 12px;background:rgba(14,165,233,0.1);border-radius:20px;">💌 Website tỏ tình · Bản 0</span>
+        </div>
+        <h3 style="margin:0 0 12px;font-size:22px;font-weight:700;color:#1e293b;line-height:1.3;">love-part-0 · Love Landing</h3>
+        <p style="line-height:1.8;margin-bottom:20px;color:#475569;font-size:15px;">
+          Trang mở đầu với hero chữ tay và lời hứa "ở bên em", dùng màu pastel, animation nhẹ tạo cảm giác thư tình. Nội dung tập trung vào cảm xúc hiện tại và lời cam kết ngắn gọn.
         </p>
-        <a href="https://tranthoilong.github.io/love-part-0/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#0ea5e9;color:#fff;text-decoration:none;font-weight:600;">
+        <a href="https://tranthoilong.github.io/love-part-0/" style="display:inline-flex;align-items:center;gap:8px;padding:12px 24px;border-radius:999px;background:linear-gradient(135deg,#0ea5e9,#0284c7);color:#fff;text-decoration:none;font-weight:600;font-size:14px;box-shadow:0 4px 12px rgba(14,165,233,0.3);">
           Truy cập love-part-0 →
         </a>
       </div>
     </article>
-    <article style="display:flex;flex-wrap:wrap;align-items:center;gap:28px;padding:28px;border-radius:20px;border:1px solid rgba(15,23,42,0.08);box-shadow:0 18px 45px rgba(15,23,42,0.12);background:linear-gradient(135deg,#f5f5ff,#ffffff);">
-      <a href="https://tranthoilong.github.io/love-part-1/" style="display:inline-block;flex:1 1 320px;">
-        <img src="./assets/images/github/love-part-1.png" alt="Website tỏ tình 1" width="360" style="border-radius:14px;object-fit:cover;width:100%;max-width:380px;" />
+    <article style="position:relative;display:flex;flex-wrap:wrap;align-items:center;gap:32px;padding:32px;border-radius:24px;border:2px solid rgba(99,102,241,0.15);box-shadow:0 20px 50px rgba(99,102,241,0.1),0 0 0 1px rgba(255,255,255,0.5);background:linear-gradient(135deg,#ffffff 0%,#f5f5ff 50%,#eef2ff 100%);overflow:hidden;">
+      <div style="position:absolute;top:0;left:0;width:200px;height:200px;background:radial-gradient(circle,rgba(99,102,241,0.08),transparent);border-radius:50%;transform:translate(-30%,-30%);"></div>
+      <a href="https://tranthoilong.github.io/love-part-1/" style="display:inline-block;flex:1 1 340px;position:relative;z-index:1;">
+        <img src="./assets/images/github/love-part-1.png" alt="Website tỏ tình 1" width="360" style="border-radius:16px;object-fit:cover;width:100%;max-width:400px;box-shadow:0 12px 32px rgba(0,0,0,0.12);border:2px solid rgba(255,255,255,0.8);" />
       </a>
-      <div style="flex:1 1 320px;text-align:left;">
-        <span style="font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#fb923c;">Website tỏ tình · Bản 1</span>
-        <h3 style="margin:14px 0 10px;">love-part-1 · Timeline tình yêu</h3>
-        <p style="line-height:1.7;margin-bottom:18px;">
+      <div style="flex:1 1 340px;text-align:left;position:relative;z-index:1;">
+        <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+          <span style="font-size:11px;letter-spacing:2.5px;text-transform:uppercase;color:#6366f1;font-weight:700;padding:4px 12px;background:rgba(99,102,241,0.1);border-radius:20px;">📅 Website tỏ tình · Bản 1</span>
+        </div>
+        <h3 style="margin:0 0 12px;font-size:22px;font-weight:700;color:#1e293b;line-height:1.3;">love-part-1 · Timeline tình yêu</h3>
+        <p style="line-height:1.8;margin-bottom:20px;color:#475569;font-size:15px;">
           Phiên bản timeline kể chi tiết hành trình quen nhau: từ ngày đầu, những lần call, cột mốc quan trọng đến lời nhắn gửi tương lai. Thiết kế thiên về storytelling, kết hợp hình ảnh kỷ niệm.
         </p>
-        <a href="https://tranthoilong.github.io/love-part-1/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#6366f1;color:#fff;text-decoration:none;font-weight:600;">
+        <a href="https://tranthoilong.github.io/love-part-1/" style="display:inline-flex;align-items:center;gap:8px;padding:12px 24px;border-radius:999px;background:linear-gradient(135deg,#6366f1,#4f46e5);color:#fff;text-decoration:none;font-weight:600;font-size:14px;box-shadow:0 4px 12px rgba(99,102,241,0.3);">
           Xem timeline love-part-1 →
         </a>
       </div>
     </article>
-    <article style="display:flex;flex-wrap:wrap;align-items:center;gap:28px;padding:28px;border-radius:20px;border:1px solid rgba(15,23,42,0.08);box-shadow:0 18px 45px rgba(15,23,42,0.12);background:linear-gradient(135deg,#f0f9ff,#ffffff);">
-      <a href="https://tranthoilong.github.io/love-part-2/" style="display:inline-block;flex:1 1 320px;">
-        <img src="./assets/images/github/love-part-2.png" alt="Website tỏ tình 2" width="360" style="border-radius:14px;object-fit:cover;width:100%;max-width:380px;" />
+    <article style="position:relative;display:flex;flex-wrap:wrap;align-items:center;gap:32px;padding:32px;border-radius:24px;border:2px solid rgba(20,184,166,0.15);box-shadow:0 20px 50px rgba(20,184,166,0.1),0 0 0 1px rgba(255,255,255,0.5);background:linear-gradient(135deg,#ffffff 0%,#f0f9ff 50%,#e0f2fe 100%);overflow:hidden;">
+      <div style="position:absolute;top:0;right:0;width:200px;height:200px;background:radial-gradient(circle,rgba(20,184,166,0.08),transparent);border-radius:50%;transform:translate(30%,-30%);"></div>
+      <a href="https://tranthoilong.github.io/love-part-2/" style="display:inline-block;flex:1 1 340px;position:relative;z-index:1;">
+        <img src="./assets/images/github/love-part-2.png" alt="Website tỏ tình 2" width="360" style="border-radius:16px;object-fit:cover;width:100%;max-width:400px;box-shadow:0 12px 32px rgba(0,0,0,0.12);border:2px solid rgba(255,255,255,0.8);" />
       </a>
-      <div style="flex:1 1 320px;text-align:left;">
-        <span style="font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#fb923c;">Website tỏ tình · Bản 2</span>
-        <h3 style="margin:14px 0 10px;">love-part-2 · Journey interactive</h3>
-        <p style="line-height:1.7;margin-bottom:18px;">
-          Phiên bản nâng cấp với các section tương tác (parallax, animation scroll) kể lại từ lúc gặp gỡ đến lời hứa dài lâu, thêm gallery kỷ niệm và call-to-action “đồng hành trọn đời”.
+      <div style="flex:1 1 340px;text-align:left;position:relative;z-index:1;">
+        <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+          <span style="font-size:11px;letter-spacing:2.5px;text-transform:uppercase;color:#14b8a6;font-weight:700;padding:4px 12px;background:rgba(20,184,166,0.1);border-radius:20px;">✨ Website tỏ tình · Bản 2</span>
+        </div>
+        <h3 style="margin:0 0 12px;font-size:22px;font-weight:700;color:#1e293b;line-height:1.3;">love-part-2 · Journey interactive</h3>
+        <p style="line-height:1.8;margin-bottom:20px;color:#475569;font-size:15px;">
+          Phiên bản nâng cấp với các section tương tác (parallax, animation scroll) kể lại từ lúc gặp gỡ đến lời hứa dài lâu, thêm gallery kỷ niệm và call-to-action "đồng hành trọn đời".
         </p>
-        <a href="https://tranthoilong.github.io/love-part-2/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#14b8a6;color:#fff;text-decoration:none;font-weight:600;">
+        <a href="https://tranthoilong.github.io/love-part-2/" style="display:inline-flex;align-items:center;gap:8px;padding:12px 24px;border-radius:999px;background:linear-gradient(135deg,#14b8a6,#0d9488);color:#fff;text-decoration:none;font-weight:600;font-size:14px;box-shadow:0 4px 12px rgba(20,184,166,0.3);">
           Khám phá love-part-2 →
         </a>
       </div>
     </article>
-    <article style="display:flex;flex-wrap:wrap;align-items:center;gap:28px;padding:28px;border-radius:20px;border:1px solid rgba(15,23,42,0.08);box-shadow:0 18px 45px rgba(15,23,42,0.12);background:linear-gradient(135deg,#fef2f2,#ffffff);">
-      <a href="https://tranthoilong.github.io/love-part-3/" style="display:inline-block;flex:1 1 320px;">
-        <img src="./assets/images/github/love-part-3.png" alt="Website tỏ tình 3" width="360" style="border-radius:14px;object-fit:cover;width:100%;max-width:380px;" />
+    <article style="position:relative;display:flex;flex-wrap:wrap;align-items:center;gap:32px;padding:32px;border-radius:24px;border:2px solid rgba(236,72,153,0.15);box-shadow:0 20px 50px rgba(236,72,153,0.1),0 0 0 1px rgba(255,255,255,0.5);background:linear-gradient(135deg,#ffffff 0%,#fef2f2 50%,#fce7f3 100%);overflow:hidden;">
+      <div style="position:absolute;top:0;left:0;width:200px;height:200px;background:radial-gradient(circle,rgba(236,72,153,0.08),transparent);border-radius:50%;transform:translate(-30%,-30%);"></div>
+      <a href="https://tranthoilong.github.io/love-part-3/" style="display:inline-block;flex:1 1 340px;position:relative;z-index:1;">
+        <img src="./assets/images/github/love-part-3.png" alt="Website tỏ tình 3" width="360" style="border-radius:16px;object-fit:cover;width:100%;max-width:400px;box-shadow:0 12px 32px rgba(0,0,0,0.12);border:2px solid rgba(255,255,255,0.8);" />
       </a>
-      <div style="flex:1 1 320px;text-align:left;">
-        <span style="font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#fb923c;">Website tỏ tình · Bản 3</span>
-        <h3 style="margin:14px 0 10px;">love-part-3 · Counter & Love Letter</h3>
-        <p style="line-height:1.7;margin-bottom:18px;">
+      <div style="flex:1 1 340px;text-align:left;position:relative;z-index:1;">
+        <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+          <span style="font-size:11px;letter-spacing:2.5px;text-transform:uppercase;color:#ec4899;font-weight:700;padding:4px 12px;background:rgba(236,72,153,0.1);border-radius:20px;">💝 Website tỏ tình · Bản 3</span>
+        </div>
+        <h3 style="margin:0 0 12px;font-size:22px;font-weight:700;color:#1e293b;line-height:1.3;">love-part-3 · Counter & Love Letter</h3>
+        <p style="line-height:1.8;margin-bottom:20px;color:#475569;font-size:15px;">
           Trang đếm ngược số ngày yêu nhau với lời thư tình "Anh Yêu Em", kèm audio background tạo không khí lãng mạn. Thiết kế tối giản, tập trung vào cảm xúc và counter thời gian đặc biệt.
         </p>
-        <a href="https://tranthoilong.github.io/love-part-3/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#ec4899;color:#fff;text-decoration:none;font-weight:600;">
+        <a href="https://tranthoilong.github.io/love-part-3/" style="display:inline-flex;align-items:center;gap:8px;padding:12px 24px;border-radius:999px;background:linear-gradient(135deg,#ec4899,#db2777);color:#fff;text-decoration:none;font-weight:600;font-size:14px;box-shadow:0 4px 12px rgba(236,72,153,0.3);">
           Xem love-part-3 →
         </a>
       </div>
