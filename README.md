@@ -108,6 +108,22 @@ Tôi là [Trần Thới Long](https://octotech.vn/), DevOps engineer tự học 
         </a>
       </div>
     </article>
+    <article style="display:flex;flex-wrap:wrap;align-items:center;gap:28px;padding:28px;border-radius:20px;border:1px solid rgba(15,23,42,0.08);box-shadow:0 18px 45px rgba(15,23,42,0.12);background:linear-gradient(135deg,#fef2f2,#ffffff);">
+      <a href="https://tranthoilong.github.io/love-part-3/" style="display:inline-block;flex:1 1 320px;">
+        <img src="./assets/images/github/love-part-3.png" alt="Website tỏ tình 3" width="360" style="border-radius:14px;object-fit:cover;width:100%;max-width:380px;" />
+      </a>
+      <div style="flex:1 1 320px;text-align:left;">
+        <span style="font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#fb923c;">Website tỏ tình · Bản 3</span>
+        <h3 style="margin:14px 0 10px;">love-part-3 · Counter & Love Letter</h3>
+        <p style="line-height:1.7;margin-bottom:18px;">
+          Trang đếm ngược số ngày yêu nhau với lời thư tình "Anh Yêu Em", kèm audio background tạo không khí lãng mạn. Thiết kế tối giản, tập trung vào cảm xúc và counter thời gian đặc biệt.
+        </p>
+        <a href="https://tranthoilong.github.io/love-part-3/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#ec4899;color:#fff;text-decoration:none;font-weight:600;">
+          Xem love-part-3 →
+        </a>
+      </div>
+    </article>
+    
   </div>
 </div>
 
