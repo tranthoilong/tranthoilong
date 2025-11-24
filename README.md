@@ -1,62 +1,63 @@
-## Hello World 👋
+## Hi, I'm Long 👋
 
 <div align="center">
-  <img width="300" src="./hello.gif">
+  <img width="320" src="./hello.gif" alt="hello">
 </div>
 
-<br />
+> DevOps/SRE lai Fullstack, mê tự động hóa vận hành và scale hệ thống với chi phí tối ưu.
 
-Hi, Im [Trần Thới Long](https://octotech.vn/), a passionate self-taught DevOps engineer. my passion for software lies with dreaming up ideas and making them come true with elegant infrastructures. i take great care in the experience, architecture, and code quality of the things I build.
+### 🧑‍🚀 Về tôi
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Tôi là [Trần Thới Long](https://octotech.vn/), DevOps engineer tự học với nền tảng fullstack. Copilot mô tả tôi là người có nhiều kinh nghiệm xây dựng web, mobile đa nền tảng và hệ thống realtime phục vụ doanh nghiệp. Tôi đam mê biến ý tưởng thành kiến trúc hạ tầng chắc chắn, dễ vận hành và đo được hiệu quả.
+
+### 🎯 Điểm mạnh chính
+
+- **Web hiện đại**: JavaScript/TypeScript, Vue, React, Angular cho các nền tảng quản trị và dịch vụ khách hàng.
+- **Mobile đa nền tảng**: Flutter (Dart), Swift, C++ cho bài toán giao vận và điều phối tài xế.
+- **Realtime & automation**: Chatbot tích hợp AI, tracking tài xế, pipeline event-driven cho vận hành realtime.
+- **DevOps mạnh mẽ**: Kubernetes, GitOps, Terraform, CI/CD bảo mật, observability full-stack (Prometheus/Loki/Grafana).
+
+### 🧭 Đang tập trung
+
+- Tối ưu hạ tầng hybrid/multi-cloud với GitOps.
+- Chuẩn hóa boilerplate DevSecOps để onboard đội kỹ thuật nhanh hơn.
+- Mentor các bạn trẻ hướng DevOps/SRE, chia sẻ mindset hệ thống.
+
+### 🛠️ Tech radar
+
+| Layer | Công nghệ chính |
+| --- | --- |
+| Cloud & IaC | AWS, GCP, Terraform, Crossplane, ArgoCD |
+| Platform | Kubernetes, Helm, Istio, Argo Rollouts |
+| CI/CD & Security | GitHub Actions, GitLab CI, Tekton, Trivy, OPA |
+| Backend & API | Node.js, NestJS, Laravel, GraphQL |
+| Frontend | Vue, Nuxt, React, Next, Vite, Tailwind |
+| Mobile | Flutter, Swift, C++ bridge |
+| Observability | Prometheus, Loki, Tempo, Grafana, OpenTelemetry |
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/IaC-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monitoring-Prometheus-E95420?style=flat-square&logo=prometheus&logoColor=white" />
+  <img alt="tech stack" src="https://skillicons.dev/icons?i=aws,gcp,terraform,githubactions,kubernetes,docker,vue,react,angular,nodejs,ts,flutter&perline=6" />
 </div>
 
-### 🧭 Snapshot nhanh
+### 🚀 Dự án tiêu biểu
 
-- 🔭 Đang tối ưu hạ tầng đa cloud với Kubernetes + GitOps
-- 🧪 Yêu thích kiến trúc event-driven, pipeline tự động hóa
-- 📚 Mentor các bạn trẻ về DevOps/SRE và tư duy hệ thống
-- ☕ Nạp năng lượng bằng cà phê đen và những bản nhạc chill
+| Dự án | Mô tả | Vai trò |
+| --- | --- | --- |
+| **AutoScale Platform** | Terraform + ArgoCD tự động scale theo chi phí thực tế. | Kiến trúc sư hạ tầng, tối ưu cost/perf. |
+| **Observability Stack** | Prometheus, Loki, Tempo, Grafana theo dõi realtime cho hàng trăm dịch vụ. | Thiết kế + rollout multi-cluster. |
+| **DevSecOps Boilerplate** | Bộ khung CI/CD tích hợp SAST/DAST, policy-as-code, secret scanning. | Lead DevOps, build template nhân rộng. |
+| **chat-bot-ai-facebook** | Chatbot AI trợ giúp chăm sóc khách hàng đa kênh. | Fullstack lead, tích hợp NLP. |
+| **realtime_driver** | Hệ thống định tuyến & giám sát tài xế realtime. | Backend chính, tối ưu latency. |
+| **app_driver_delivery** | Ứng dụng Flutter điều phối tài xế, tracking đơn hàng. | Kỹ sư mobile/core logic. |
 
-
-**Languages and tools:**  
-<div align="center">
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-</div>
-<br />
-<div align="center">
-  <img alt="GIF" src="./dance.gif" width="300"/>
-</div>
-
-### 🛠️ Dự án nổi bật
-
-- **AutoScale Platform**: Bộ công cụ Terraform + ArgoCD giúp mở rộng dịch vụ tự động theo chi phí thực tế.
-- **Observability Stack**: Triển khai Prometheus, Loki, Tempo với Grafana để quan sát hệ thống realtime.
-- **DevSecOps Boilerplate**: Khuôn mẫu CI/CD tích hợp kiểm thử bảo mật, SAST/DAST và policy-as-code.
-
-### 📈 My github stats
+### 📈 Số liệu & fun stuff
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tranthoilong&hide=contribs,prs&show_icons=true&bg_color=0,f5b161,ec366e&title_color=fff&text_color=fff&icon_color=fff" alt="Tran Thoi Long's GitHub stats" width="400" />
-<img src="./digital.gif" width="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tranthoilong&hide=contribs,prs&show_icons=true&bg_color=0,f5b161,ec366e&title_color=fff&text_color=fff&icon_color=fff" alt="Tran Thoi Long's GitHub stats" width="420" />
+  <img src="./digital.gif" width="150" alt="digital gif" />
 </div>
 
-### 📫 Kết nối
+### ☕ Liên hệ & cộng đồng
 
 <div align="center">
   <a href="mailto:longdevlor@gmail.com"><img src="https://img.shields.io/badge/Email-longdevlor%40gmail.com-red?style=for-the-badge"></a>
@@ -64,6 +65,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <a href="https://x.com/tranthoilong"><img src="https://img.shields.io/badge/Twitter-%40tranthoilong-000?style=for-the-badge&logo=twitter"></a>
   <a href="https://zalo.me/0383892964"><img src="https://img.shields.io/badge/Zalo-0383892964-0068ff?style=for-the-badge"></a>
 </div>
+
+> Nếu bạn đang xây dựng sản phẩm cần scale nhanh nhưng vẫn gọn nhẹ, cứ nhắn tôi. Cà phê đen luôn sẵn sàng ☕
 
 
 
