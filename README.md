@@ -64,6 +64,9 @@ Tôi là [Trần Thới Long](https://octotech.vn/), DevOps engineer tự học 
   <img src="./digital.gif" width="150" alt="digital gif" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tranthoilong&theme=onedark" alt="GitHub streak stats" width="420" />
+</div>
 
 
 
