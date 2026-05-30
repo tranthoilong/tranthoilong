@@ -1,7 +1,7 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1400&color=FFA500&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Tran+Thoi+Long+%F0%9F%91%8B;DevOps+%2F+SRE+Engineer+%2B+Fullstack+Builder;I+build+systems+that+scale%2C+observe%2C+and+recover"
-    alt="Hi, I'm Tran Thoi Long"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1200&color=FFA500&center=true&vCenter=true&width=850&lines=Tran+Thoi+Long+%7C+DevOps%2FSRE+%2B+Fullstack;I+turn+messy+ideas+into+running+systems;Ship+fast.+Observe+deep.+Scale+smart."
+    alt="Tran Thoi Long | DevOps/SRE + Fullstack"
   />
 </h1>
 
@@ -19,76 +19,89 @@
   <a href="mailto:longdevlor@gmail.com"><img src="https://img.shields.io/badge/Email-longdevlor%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">
-  <strong>DevOps/SRE lai Fullstack</strong> - tôi thích biến ý tưởng sản phẩm thành hệ thống chạy được, scale được, quan sát được và tối ưu chi phí được.
-</p>
+```yaml
+name: Tran Thoi Long
+role: DevOps/SRE Engineer + Fullstack Builder
+mission: Build reliable systems that teams can ship, observe, recover, and scale.
+style:
+  - automate boring work
+  - measure before guessing
+  - design for rollback
+  - keep infra clean enough for the next person
+```
 
----
+### 🧑‍🚀 Hello, tôi là Long
 
-### 🧑‍🚀 Về tôi
+Tôi thích đứng ở chỗ sản phẩm gặp hạ tầng: nơi một ý tưởng bắt đầu thành API, đi qua CI/CD, chạy trên Kubernetes, phát ra metrics, ghi log, có alert, có rollback, rồi tiếp tục sống khỏe khi traffic tăng.
 
-Tôi là **Trần Thới Long**, một DevOps/SRE engineer tự học với nền tảng fullstack. Tôi thường đứng ở giao điểm giữa sản phẩm, backend, hạ tầng và vận hành: hiểu cách một tính năng được build, cách nó đi qua CI/CD, cách nó chạy trên Kubernetes, và cách đội kỹ thuật biết chuyện gì đang xảy ra khi hệ thống có vấn đề.
+Tôi không chỉ muốn hệ thống “deploy được”. Tôi muốn nó **dễ hiểu khi lỗi**, **dễ mở rộng khi cần**, **dễ vận hành khi team lớn lên** và **không đốt tiền cloud vô nghĩa**.
 
-Điều tôi quan tâm không chỉ là deploy thành công. Tôi thích xây những nền tảng giúp đội ngũ ra sản phẩm nhanh hơn nhưng vẫn kiểm soát được rủi ro: pipeline rõ ràng, hạ tầng có thể lặp lại, monitor đủ sâu, rollback đủ nhanh và chi phí không bị trôi.
+### ⚙️ Build Mode
 
-### ⚡ Tôi tạo giá trị ở đâu
-
-- **Platform Engineering**: chuẩn hóa Kubernetes, Helm, GitOps, môi trường staging/production và quy trình release.
-- **DevSecOps**: CI/CD có kiểm thử, scan bảo mật, policy-as-code, secret scanning và guardrail cho đội phát triển.
-- **Observability**: Prometheus, Loki, Tempo, Grafana, OpenTelemetry để đo latency, error rate, throughput và hành vi hệ thống.
-- **Fullstack Delivery**: từ API, dashboard, realtime service đến mobile app, đủ hiểu sản phẩm để thiết kế hạ tầng sát nhu cầu thật.
-- **Automation mindset**: việc gì lặp lại nhiều lần thì biến thành script, workflow, template hoặc platform capability.
-
-### 🧭 Hiện tôi đang tập trung
-
-- Tối ưu hạ tầng hybrid/multi-cloud bằng **Terraform, Crossplane, ArgoCD**.
-- Xây boilerplate **DevSecOps** để onboard dự án nhanh, nhất quán và dễ audit.
-- Thiết kế observability stack cho hệ thống nhiều service, nhiều cluster.
-- Mentor các bạn trẻ theo hướng DevOps/SRE: tư duy hệ thống, troubleshooting và ownership.
-
-### 🛠️ Tech radar
-
-| Layer | Công nghệ chính |
+| Tôi hay xử lý | Cách tôi tiếp cận |
 | --- | --- |
-| Cloud & IaC | AWS, GCP, Terraform, Crossplane, ArgoCD |
-| Platform | Kubernetes, Helm, Istio, Argo Rollouts, Docker |
-| CI/CD & Security | GitHub Actions, GitLab CI, Tekton, Trivy, OPA |
-| Observability | Prometheus, Loki, Tempo, Grafana, OpenTelemetry |
-| Backend & API | Node.js, NestJS, Laravel, GraphQL, REST |
-| Frontend | Vue, Nuxt, React, Next.js, Vite, Tailwind CSS |
-| Mobile | Flutter, Dart, Swift, C++ bridge |
-| Realtime | WebSocket, event-driven workflow, chatbot, tracking |
+| Release chậm, nhiều bước tay | Biến thành pipeline rõ ràng, có kiểm thử, scan, approval và rollback. |
+| Hạ tầng khó lặp lại | Đưa về Terraform/Crossplane/GitOps để review được, tái tạo được, audit được. |
+| Hệ thống khó debug | Thiết kế metrics, logs, traces, dashboard và alert theo hành vi thật của service. |
+| App realtime cần ổn định | Tối ưu luồng dữ liệu, latency, queue/event flow và khả năng quan sát. |
+| Team cần onboard nhanh | Tạo boilerplate, template, docs và guardrail để người mới ship an toàn hơn. |
+
+### 🧰 Stack tôi dùng để ship
 
 <div align="center">
-  <img alt="tech stack" src="https://skillicons.dev/icons?i=aws,gcp,terraform,githubactions,kubernetes,docker,vue,react,angular,nodejs,ts,flutter,laravel,prometheus,grafana&perline=5" />
+  <img alt="tech stack" src="https://skillicons.dev/icons?i=aws,gcp,terraform,kubernetes,docker,githubactions,gitlab,prometheus,grafana,nginx,nodejs,ts,vue,react,angular,nextjs,laravel,flutter&perline=6" />
 </div>
 
-### 🚀 Dự án tiêu biểu
-
-| Dự án | Bài toán | Vai trò |
-| --- | --- | --- |
-| **AutoScale Platform** | Tự động scale hạ tầng theo tải và chi phí thực tế bằng Terraform + ArgoCD. | Thiết kế kiến trúc, tối ưu cost/performance. |
-| **Observability Stack** | Theo dõi realtime cho nhiều service bằng Prometheus, Loki, Tempo, Grafana. | Thiết kế, rollout multi-cluster, chuẩn hóa dashboard/alert. |
-| **DevSecOps Boilerplate** | Bộ khung CI/CD tích hợp SAST/DAST, policy-as-code, secret scanning. | Lead DevOps, xây template dùng lại cho nhiều dự án. |
-| **chat-bot-ai-facebook** | Chatbot AI hỗ trợ chăm sóc khách hàng đa kênh. | Fullstack lead, tích hợp NLP và workflow automation. |
-| **realtime_driver** | Định tuyến, tracking và giám sát tài xế realtime. | Backend chính, tối ưu latency và luồng dữ liệu realtime. |
-| **app_driver_delivery** | Ứng dụng Flutter cho tài xế, tracking đơn hàng và điều phối giao vận. | Mobile/core logic, tích hợp realtime service. |
-
-### 🌐 Website đang vận hành
-
-| Website | Mục đích |
+| Layer | Công nghệ |
 | --- | --- |
-| [tranthoilong.github.io](https://tranthoilong.github.io/) | Portfolio cá nhân, nơi tổng hợp dự án, kinh nghiệm và ghi chú kỹ thuật. |
-| [octotech.vn](https://octotech.vn/) | Không gian sản phẩm/dịch vụ công nghệ, automation và hạ tầng. |
+| Cloud & IaC | AWS, GCP, Terraform, Crossplane |
+| Platform | Kubernetes, Helm, Istio, ArgoCD, Argo Rollouts |
+| CI/CD & Security | GitHub Actions, GitLab CI, Tekton, Trivy, OPA |
+| Observability | Prometheus, Loki, Tempo, Grafana, OpenTelemetry |
+| Product Engineering | Node.js, NestJS, Laravel, GraphQL, Vue, Nuxt, React, Next.js |
+| Mobile & Realtime | Flutter, Swift, WebSocket, event-driven workflow, tracking system |
 
-### 📊 GitHub activity
+### 🚀 Things I Like Building
+
+- **Internal developer platforms** giúp team tạo service, deploy và monitor nhanh hơn.
+- **GitOps workflow** cho nhiều môi trường, nhiều cluster, ít thao tác tay.
+- **Observability stack** có dashboard dùng được trong sự cố, không chỉ để nhìn cho đẹp.
+- **DevSecOps boilerplate** có SAST/DAST, secret scanning, policy-as-code và release gate.
+- **Realtime products** như chatbot AI, tracking tài xế, điều phối giao vận và dashboard vận hành.
+
+### 🧪 Featured Work
+
+| Project | What it does | My part |
+| --- | --- | --- |
+| **AutoScale Platform** | Scale hạ tầng theo tải và tín hiệu chi phí bằng Terraform + ArgoCD. | Kiến trúc platform, cost/performance tuning. |
+| **Observability Stack** | Prometheus, Loki, Tempo, Grafana cho hệ thống nhiều service. | Multi-cluster rollout, dashboard, alert rule. |
+| **DevSecOps Boilerplate** | CI/CD template có security scanning, policy và secret guard. | Lead DevOps, chuẩn hóa template dùng lại. |
+| **chat-bot-ai-facebook** | Chatbot AI hỗ trợ chăm sóc khách hàng đa kênh. | Fullstack lead, tích hợp NLP và automation flow. |
+| **realtime_driver** | Tracking, định tuyến và giám sát tài xế realtime. | Backend, latency tuning, realtime data flow. |
+| **app_driver_delivery** | App Flutter cho tài xế giao vận và tracking đơn hàng. | Mobile/core logic, tích hợp realtime service. |
+
+### 🧭 Current Quests
+
+- Chuẩn hóa platform Kubernetes/GitOps cho dự án chạy lâu dài.
+- Viết boilerplate DevSecOps giúp team mới bắt đầu nhanh mà không bỏ sót bảo mật.
+- Tối ưu observability để sự cố được phát hiện sớm hơn và debug ít đoán mò hơn.
+- Chia sẻ mindset DevOps/SRE cho các bạn trẻ: hiểu hệ thống, chịu trách nhiệm, tự động hóa đúng chỗ.
+
+### 🌐 Running Spaces
+
+| Space | Link |
+| --- | --- |
+| Portfolio | [tranthoilong.github.io](https://tranthoilong.github.io/) |
+| Product/Tech Lab | [octotech.vn](https://octotech.vn/) |
+
+### 📊 GitHub Pulse
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=tranthoilong&show_icons=true&theme=gruvbox&hide_border=true" alt="Tran Thoi Long GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthoilong&layout=compact&theme=gruvbox&hide_border=true" alt="Top languages" />
 </div>
 
-### ☕ Liên hệ & cộng đồng
+### ☕ Connect
 
 <div align="center">
   <a href="mailto:longdevlor@gmail.com"><img src="https://img.shields.io/badge/Email-longdevlor%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -97,4 +110,4 @@ Tôi là **Trần Thới Long**, một DevOps/SRE engineer tự học với nề
   <a href="https://zalo.me/0383892964"><img src="https://img.shields.io/badge/Zalo-0383892964-0068ff?style=for-the-badge" alt="Zalo"></a>
 </div>
 
-> Nếu bạn đang xây dựng sản phẩm cần scale nhanh nhưng vẫn gọn nhẹ, cứ nhắn tôi. Cà phê đen luôn sẵn sàng ☕
+> Nếu bạn đang build sản phẩm cần chạy nhanh, scale gọn và vận hành đỡ đau đầu, cứ nhắn tôi. Cà phê đen luôn sẵn sàng ☕
