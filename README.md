@@ -97,8 +97,10 @@ Tôi không chỉ muốn hệ thống “deploy được”. Tôi muốn nó **d
 ### 📊 GitHub Pulse
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tranthoilong&show_icons=true&theme=gruvbox&hide_border=true" alt="Tran Thoi Long GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthoilong&layout=compact&theme=gruvbox&hide_border=true" alt="Top languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tranthoilong&theme=github_dark" alt="Tran Thoi Long GitHub profile summary" />
+  <br />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tranthoilong&theme=github_dark" alt="Repositories per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tranthoilong&theme=github_dark" alt="GitHub stats" />
 </div>
 
 ### ☕ Connect
