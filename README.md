@@ -7,9 +7,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./logotrang.png" />
-    <source media="(prefers-color-scheme: light)" srcset="./logoden.png" />
-    <img width="320" src="./logotrang.png" alt="Tran Thoi Long" />
+    <source media="(prefers-color-scheme: dark)" srcset="./lacdit.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./lacdit.gif" />
+    <img width="320" src="./lacdit.gif" alt="Tran Thoi Long" />
   </picture>
 </div>
 
